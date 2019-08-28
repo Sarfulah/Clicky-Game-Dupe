@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:sans-serif}#root,body,html{padding:0;margin:0;height:100%}.wrapper{background:#eceff1;height:100%;display:flex;flex-flow:row wrap;padding:20px;justify-content:space-around;align-content:flex-start;overflow:auto}.header{width:100%;text-align:center;font-size:3rem;text-decoration:underline;color:#2a77ae;margin-bottom:10px}.title{float:left}.scores{float:right}.card{height:260px;margin:1rem;width:260px;box-shadow:0 3px 6px #999,0 3px 6px #999}.card>.img-container>img{width:95%}
+/*# sourceMappingURL=main.da75fde0.chunk.css.map */
